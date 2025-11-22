@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": "d34d4874-458c-4d06-abbd-ba079d9f2267",
+      "username": "rambo",
+      "passwordHash": "$2b$10$uMdTYhepwmNTLBvMQm0CZeCXEZ1k/4VnBxfJrjk5/e.cC4Q6O6i6q",
+      "createdAt": "2025-11-21T18:30:37.763Z",
+      "role": "owner",
+      "updatedAt": "2025-11-21T18:52:08.774Z"
+    }
+  ]
+}
