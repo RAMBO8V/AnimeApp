@@ -10,6 +10,8 @@ export const metadata = {
   description: "Your personal anime collection",
 };
 
+export const dynamic = 'force-dynamic';
+
 export default function RootLayout({ children }) {
   return (
     <html lang="es">
